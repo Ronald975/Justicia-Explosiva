@@ -1,0 +1,23 @@
+Créditos 
+## Music
+1. Coins 1 by AceOfSpadesProduc100 
+Source: https://freesound.org/s/341695/
+License: Attribution 4.0
+2. Medium Explosion.wav by JohanDeecke 
+Source: https://freesound.org/s/369529/ 
+License: Attribution 3.0
+3. deathEnemy01[THM_Adventure] by deleted_user_3330286 
+Source: https://freesound.org/s/188549/ 
+License: Attribution NonCommercial 3.0
+4. Courage the Cowardly OST - Crisis Theme
+Source: https://youtu.be/zWlKmqsxeJc?si=iBobJ7P5seghBytm
+License not specified, consult the author directly
+Autor: Jody Gray and Andy Ezrin
+5. Mission Completed Deep Voice by dersuperanton
+Source: https://freesound.org/s/433700/ 
+License: Attribution 4.0
+## 3D Models
+1. "PBR Jerrycan Free" by DNK_DEV  
+Source: Unity Asset Store  
+License: Standard Unity Asset Store EULA
+
